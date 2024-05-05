@@ -1,0 +1,5 @@
+--nosystem_rc
+
+common --enable_bzlmod=false
+
+build --verbose_failures
